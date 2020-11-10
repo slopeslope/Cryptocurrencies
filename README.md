@@ -1,3 +1,3 @@
 # Cryptocurrencies
 
-The objective of this project was to prepare data through unsupervised machine learning models to find out
+The objective of this project was to prepare data through unsupervised machine learning models to find out what cryptocurrencies 
